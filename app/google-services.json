@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199452898698",
+    "project_id": "unitask-7a46b",
+    "storage_bucket": "unitask-7a46b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199452898698:android:d354aa1af17c9af2468473",
+        "android_client_info": {
+          "package_name": "com.miguel.unitask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm-QehHKkKGlhm29_uFMR6EJUcCwC5Jbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
